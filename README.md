@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quy Long
 - 🧑‍💻 I'm working at a global company as Automotive embedded software engineer
 - 👀 I’m interested in Embedded software development and Automotive software development
-- 🌱 I’m currently learning studing Master of Control and Automation Engineering Degree at Bach Khoa Ho Chi Minh University
+- 🌱 I’m currently studing a Master of Control and Automation Engineering Degree at Bach Khoa Ho Chi Minh University
 - 📫 I'm willing to meet everyone. Please fell free to contact me via email quylong.tqt@gmail.com
 
 <!---
